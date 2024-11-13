@@ -1,7 +1,5 @@
 Code created by Ewelina Czwienczek Kyrylova
-# Mastering Python: An In-Depth Guide is the best
-## Photo
-![Snake picture](https://images.app.goo.gl/1VUyLKk6eQX2kq2HA)
+# Mastering Python: An In-Depth Guide
 
 Python is a versatile and powerful programming language known for its readability and
 straightforward syntax. It is a favorite among developers in diverse fields, from web development to data science, due to its simplicity and the vast ecosystem of libraries and frameworks it supports.
